@@ -4,4 +4,11 @@ Spaccess, a Mexican company, is dedicated to offering digital and data sovereign
 
 - [Spaccess Homepage](https://spaccess.com.mx/)
 - [International Data Spaces](https://www.internationaldataspaces.org)
-- [Dataspace Protocol specifications](https://docs.internationaldataspaces.org/dataspace-protocol)
+- [Dataspace Protocol Specifications](https://docs.internationaldataspaces.org/dataspace-protocol)
+
+## Products and Services
+
+- Weaver Connector
+- Dataspace Setup
+- Training services in data sovereignty and the use of data spaces
+
